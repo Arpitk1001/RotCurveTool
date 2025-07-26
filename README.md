@@ -8,9 +8,9 @@ A streamlined Python-based framework for simulating and fitting galactic rotatio
 
 This tool allows researchers to fit observed galactic rotation curves using a combination of bulge, disk, and dark matter halo profiles. It supports tabulated and raw FITS data, multiple halo and bulge models, and offers robust fitting methods including MCMC with full uncertainty propagation.
 
-✅ Reproduces published Milky Way models  
-✅ Supports component-wise plotting and residual diagnostics  
-✅ Easy to extend, use, and interpret — ideal for both research and teaching
+Reproduces published Milky Way models  
+Supports component-wise plotting and residual diagnostics  
+Easy to extend, use, and interpret — ideal for both research and teaching
 
 ---
 
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```
 .
