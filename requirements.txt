@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scipy
+astropy
+emcee
+corner
+tqdm
+jupyter
+notebook
