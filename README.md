@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ```
 .
-├── grc_fitting_demo.ipynb      # Main interactive notebook
+├── RotCurveTool.ipynb      # Main interactive notebook
 ├── requirements.txt            # Python dependencies
 ├── rotation_curve_fit.png      # Sample output: total fit
 ├── residuals_plot.png          # Sample output: residuals
