@@ -4,7 +4,7 @@ A streamlined Python-based framework for simulating and fitting galactic rotatio
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This tool allows researchers to fit observed galactic rotation curves using a combination of bulge, disk, and dark matter halo profiles. It supports tabulated and raw FITS data, multiple halo and bulge models, and offers robust fitting methods including MCMC with full uncertainty propagation.
 
@@ -14,7 +14,7 @@ This tool allows researchers to fit observed galactic rotation curves using a co
 
 ---
 
-## 📦 Features
+## Features
 
 - Bulge profiles: Hernquist, de Vaucouleurs
 - Disk: Exponential disk
@@ -33,7 +33,7 @@ This tool allows researchers to fit observed galactic rotation curves using a co
 
 ---
 
-## 📝 Requirements
+## Requirements
 
 Install dependencies using:
 
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧪 Quick Start
+## Quick Start
 
 1. Clone the repository:
     ```bash
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Example Galaxy
+## Example Galaxy
 
 The included notebook demonstrates fitting the Milky Way's rotation curve using:
 - de Vaucouleurs bulge
@@ -88,7 +88,7 @@ Data is sourced from Dr. Yoshiaki Sofue’s public rotation curve repository at 
 
 ---
 
-## 📖 Citation
+## Citation
 
 If you use this tool in your work, please cite:
 
@@ -96,12 +96,12 @@ If you use this tool in your work, please cite:
 
 ---
 
-## 📘 License
+## License
 
 This project is licensed under the MIT License — see the `LICENSE` file for details.
 
 ---
 
-## 🤝 Acknowledgements
+## Acknowledgements
 
 Developed as part of an undergraduate research initiative in galaxy dynamics and dark matter modeling. Inspired by published models by Dr. Yoshiaki Sofue (2016) and community feedback on fitting limitations in tools like RotCur and GalRotPy.
